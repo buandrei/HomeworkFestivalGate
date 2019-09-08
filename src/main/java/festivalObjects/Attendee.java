@@ -1,4 +1,4 @@
-package festivalOBjects;
+package festivalObjects;
 
 public class Attendee {
 
@@ -14,6 +14,6 @@ public class Attendee {
 
     @Override
     public String toString() {
-        return "festivalOBjects.Attendee ticket type = " + ticketType;
+        return "festivalObjects.Attendee ticket type = " + ticketType;
     }
 }

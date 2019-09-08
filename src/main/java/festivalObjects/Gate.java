@@ -1,4 +1,4 @@
-package festivalOBjects;
+package festivalObjects;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package festivalOBjects;
+package festivalObjects;
 
 import java.util.Arrays;
 import java.util.Collections;

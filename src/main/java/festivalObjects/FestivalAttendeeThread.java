@@ -1,4 +1,4 @@
-package festivalOBjects;
+package festivalObjects;
 public class FestivalAttendeeThread extends Thread {
     private Gate gate;
 

@@ -1,4 +1,4 @@
-import festivalOBjects.MainThread;
+import festivalObjects.MainThread;
 
 public class Main {
 

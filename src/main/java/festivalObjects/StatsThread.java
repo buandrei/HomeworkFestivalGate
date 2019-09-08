@@ -1,4 +1,4 @@
-package festivalOBjects;
+package festivalObjects;
 
 public class StatsThread extends Thread {
 
